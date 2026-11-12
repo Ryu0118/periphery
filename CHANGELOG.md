@@ -12,6 +12,20 @@
 
 - None.
 
+## 3.8.1 (2026-11-13)
+
+##### Breaking
+
+- None.
+
+##### Enhancements
+
+- None.
+
+##### Bug Fixes
+
+- Fix `The project doesn't contain a .pbxproj file` when scanning Xcode projects saved in the `project.xcproj` format, by updating XcodeProj to 9.17.5.
+
 ## 3.8.0 (2026-07-25)
 
 ##### Breaking

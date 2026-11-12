@@ -1,3 +1,7 @@
+> [!NOTE]
+>
+> This is a community fork of the last open-source release (3.8.0). It only carries fixes needed to keep that release working with current Xcode project formats. Releases from this fork support SwiftPM/Xcode projects on macOS; the Bazel artifacts are not published. See [CHANGELOG.md](CHANGELOG.md).
+
 > [!IMPORTANT]
 >
 > Periphery has transitioned from an open-source project to a commercial product. This change will support the continued maintenance of Periphery and the development of more advanced features.
